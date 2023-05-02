@@ -7,95 +7,168 @@ Antiqua strain is thought to be the ancestral branch of the plague pathogen (htt
 
 Specifically, the pMT1 plasmid found in Yersinia Pestis is a virulence factor that promotes tissue invasion (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC108724/). 
 
-Several whole genome sequnces of the pMT1 plasmid from the bacteria were gathered from GenBank and NCBI's RefSeq.
-
-Sequences collected were comprised of various strains of pMT1. 
-
-Searches of the strains on Joint Genome Institute produced scientific study citations that mentioned the origin of some strains.
-
-Confirmed by accession number, using NCBI assembly to match RefSeq and Genbank numbers. Strains found to be having unknown origins or made in a lab or were removed.
-
 
 **Raw Sequence Information**
+
 Yersinia pestis Antiqua plasmid pMT, complete sequence
+
 GenBank: CP000309.1
+
 Info: Isolated from a human infection in Africa (Republic of Congo in 1965)
+
 Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000350)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000309.1?report=fasta
 
+
+
 Yersinia pestis Nepal516 plasmid pMT, complete sequence
+
 GenBank: CP000306.1
+
 Info: Isolated from a human infection in Nepal (possibly from a 1967 outbreak of pneumonic plague)
+
 Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCA_000013805.1, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=645058759)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000306.1?report=fasta
 
+
+
 Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence
+
 GenBank: AE017045.1
+
 Info: Isolated from Microtus brandti in Inner Mongolia, China
+
 Sources that provide strain information: (https://pubmed.ncbi.nlm.nih.gov/15368893/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000354) 
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/AE017045.1?report=fasta
 
+
+
 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pMT, complete sequence
+
 NCBI Reference Sequence: NC_017266.1
+
 Info: Isolated from a human in China
+
 Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA30505, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000186725.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=650377987)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017266.1?report=fasta
 
+
+
 Yersinia pestis strain Cadman plasmid pMT1, complete sequence
+
 NCBI Reference Sequence: NZ_CP016275.1
+
 Info: Isolated in US 1965 from a boy's CSF
+
 Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084870/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2718217770)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP016275.1?report=fasta
 
+
+
 Yersinia pestis strain S19960127 plasmid pMT1, complete sequence
+
 NCBI Reference Sequence: NZ_CP045637.1
+
 Info: Isolated from a pneumonic patient’s organs at necropsy during a plague outbreak that occurred in 1996 in Qayü village, Lhünze County, Shannan Prefecture in Tibet, China
+
 Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8096067/)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP045637.1?report=fasta
 
+
+
 Yersinia pestis CA88-4125 plasmid pMT1, complete sequence
+
 NCBI Reference Sequence: NC_009596.1
+
 Info: Isolated from human 1988 California
+
 Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000181455.2/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=640963031)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_009596.1?report=fasta
 
+
+
 Yersinia pestis CO92 plasmid pMT1, complete sequence
+
 NCBI Reference Sequence: NC_003134.1
+
 Info: Isolated from a US human who got it from a cat at or before 2001
+
 Sources that provide strain information: (https://core.ac.uk/reader/13110408?utm_source=linkout, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCF_000009065.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000351)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_003134.1?report=fasta
 
+
+
+
 Yersinia pestis D106004 plasmid pMT1, complete sequence
+
 NCBI Reference Sequence: NC_017155.1
+
 Info: Isolated from Apodemus chevrieri in Yulong county in 2006
+
 Sources that provide strain information: (https://www.ajtmh.org/view/journals/tpmd/81/4/article-p714.xml, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022805.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646862350)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017155.1?report=fasta
 
+
+
 Yersinia pestis Z176003 plasmid pMT1, complete sequence
+
 NCBI Reference Sequence: NC_014022.1
+
 Info: Isolated from dead marmot in Tibet Autonomous Region, China
+
 Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022845.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646564590)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_014022.1?report=fasta
 
+
+
 Yersinia pestis Pestoides G plasmid pMT sequence
+
 GenBank: CP010248.1
+
 Info: Isolated from Microtus montanus in Republic of Georgia
+
 Sources that provide strain information: (https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2648501335)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP010248.1?report=fasta
 
+
+
 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pMT, complete sequence
+
 GenBank: CP045159.1
+
 Info: Isolated from Citellophilus tesquorum fleas in Central-Caucasian high-mountain, Russia 2000
+
 Sources that provide strain information: (https://journals.asm.org/doi/10.1128/mra.01115-21, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2891959310)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP045159.1?report=fasta
 
+
+
 Yersinia pestis Pestoides F plasmid pMT, complete sequence
+
 GenBank: CP009714.1
+
 Info: Isolated from host in former Soviet Union
+
 Sources that provide strain information: (https://link.springer.com/chapter/10.1007/978-0-387-72124-8_2, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2630968993)
+
 Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP009714.1?report=fasta
 
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Goal:
 **Understand the evolutionary history of Yersinia pestis based on pMT plasmid evolution**
 
@@ -126,8 +199,8 @@ source ~/.rajvipatel
 ## Step 1: Collect data
 
 **Completed - Collecting data**
-- Data received from NCBI's GenBank and stored separately in the "raw-data" subfolder found within the "data" folder. Data chosen based on being around 100,000 nucleotides
-long, which matches the average sequence of the pMT1 genome. Chose only complete sequences of pMT1.
+
+- Several whole genome nucleotide sequences of various pMT1 plasmid strains were gathered from GenBank and NCBI's RefSeq. Searches of the strains on Joint Genome Institute produced scientific study citations that mentioned the origin of some strains. Strains found to be having unknown origins or made in a lab or were removed. The remaining 13 sequences of data are stored separately in the "raw-data" subfolder found within the "data" folder.
 
 
 
