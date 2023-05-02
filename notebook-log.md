@@ -19,68 +19,81 @@ Confirmed by accession number, using NCBI assembly to match RefSeq and Genbank n
 **Raw Sequence Information**
 Yersinia pestis Antiqua plasmid pMT, complete sequence
 GenBank: CP000309.1
-Info: Isolated from a human infection in Africa (Republic of Congo in 1965) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000350)
-https://www.ncbi.nlm.nih.gov/nuccore/CP000309.1?report=fasta
+Info: Isolated from a human infection in Africa (Republic of Congo in 1965)
+Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000350)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000309.1?report=fasta
 
 Yersinia pestis Nepal516 plasmid pMT, complete sequence
 GenBank: CP000306.1
-Info: Isolated from a human infection in Nepal (possibly from a 1967 outbreak of pneumonic plague) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCA_000013805.1, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=645058759)
-https://www.ncbi.nlm.nih.gov/nuccore/CP000306.1?report=fasta
+Info: Isolated from a human infection in Nepal (possibly from a 1967 outbreak of pneumonic plague)
+Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCA_000013805.1, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=645058759)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000306.1?report=fasta
 
 Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence
 GenBank: AE017045.1
-Info: Isolated from Microtus brandti in Inner Mongolia, China (https://pubmed.ncbi.nlm.nih.gov/15368893/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000354) 
-https://www.ncbi.nlm.nih.gov/nuccore/AE017045.1?report=fasta
+Info: Isolated from Microtus brandti in Inner Mongolia, China
+Sources that provide strain information: (https://pubmed.ncbi.nlm.nih.gov/15368893/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000354) 
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/AE017045.1?report=fasta
 
 Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pMT, complete sequence
 NCBI Reference Sequence: NC_017266.1
-Info: Isolated from a human in China (https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA30505, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000186725.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=650377987)
-https://www.ncbi.nlm.nih.gov/nuccore/NC_017266.1?report=fasta
+Info: Isolated from a human in China
+Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA30505, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000186725.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=650377987)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017266.1?report=fasta
 
 Yersinia pestis strain Cadman plasmid pMT1, complete sequence
 NCBI Reference Sequence: NZ_CP016275.1
-Info: Isolated in US 1965 from a boy's CSF (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084870/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2718217770)
-https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP016275.1?report=fasta
+Info: Isolated in US 1965 from a boy's CSF
+Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084870/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2718217770)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP016275.1?report=fasta
 
 Yersinia pestis strain S19960127 plasmid pMT1, complete sequence
 NCBI Reference Sequence: NZ_CP045637.1
-Info: Isolated from a pneumonic patient’s organs at necropsy during a plague outbreak that occurred in 1996 in Qayü village, Lhünze County, Shannan Prefecture in Tibet, China (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8096067/, )
-https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP045637.1?report=fasta
+Info: Isolated from a pneumonic patient’s organs at necropsy during a plague outbreak that occurred in 1996 in Qayü village, Lhünze County, Shannan Prefecture in Tibet, China
+Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8096067/)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP045637.1?report=fasta
 
 Yersinia pestis CA88-4125 plasmid pMT1, complete sequence
 NCBI Reference Sequence: NC_009596.1
-Info: Isolated from human 1988 California (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000181455.2/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=640963031)
-https://www.ncbi.nlm.nih.gov/nuccore/NC_009596.1?report=fasta
+Info: Isolated from human 1988 California
+Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000181455.2/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=640963031)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_009596.1?report=fasta
 
 Yersinia pestis CO92 plasmid pMT1, complete sequence
 NCBI Reference Sequence: NC_003134.1
-Info: Isolated from a US human who got it from a cat at or before 2001 (https://core.ac.uk/reader/13110408?utm_source=linkout, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCF_000009065.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000351)
-https://www.ncbi.nlm.nih.gov/nuccore/NC_003134.1?report=fasta
+Info: Isolated from a US human who got it from a cat at or before 2001
+Sources that provide strain information: (https://core.ac.uk/reader/13110408?utm_source=linkout, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCF_000009065.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000351)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_003134.1?report=fasta
 
 Yersinia pestis D106004 plasmid pMT1, complete sequence
 NCBI Reference Sequence: NC_017155.1
-Info: Isolated from Apodemus chevrieri in Yulong county in 2006 (https://www.ajtmh.org/view/journals/tpmd/81/4/article-p714.xml, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022805.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646862350)
-https://www.ncbi.nlm.nih.gov/nuccore/NC_017155.1?report=fasta
+Info: Isolated from Apodemus chevrieri in Yulong county in 2006
+Sources that provide strain information: (https://www.ajtmh.org/view/journals/tpmd/81/4/article-p714.xml, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022805.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646862350)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017155.1?report=fasta
 
 Yersinia pestis Z176003 plasmid pMT1, complete sequence
 NCBI Reference Sequence: NC_014022.1
-Info: Isolated from dead marmot in Tibet Autonomous Region, China (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022845.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646564590)
-https://www.ncbi.nlm.nih.gov/nuccore/NC_014022.1?report=fasta
+Info: Isolated from dead marmot in Tibet Autonomous Region, China
+Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022845.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646564590)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_014022.1?report=fasta
 
 Yersinia pestis Pestoides G plasmid pMT sequence
 GenBank: CP010248.1
-Info: Isolated from Microtus montanus in Republic of Georgia (https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2648501335)
-https://www.ncbi.nlm.nih.gov/nuccore/CP010248.1?report=fasta
+Info: Isolated from Microtus montanus in Republic of Georgia
+Sources that provide strain information: (https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2648501335)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP010248.1?report=fasta
 
 Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pMT, complete sequence
 GenBank: CP045159.1
-Info: Isolated from Citellophilus tesquorum fleas in Central-Caucasian high-mountain, Russia 2000 (https://journals.asm.org/doi/10.1128/mra.01115-21, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2891959310)
-https://www.ncbi.nlm.nih.gov/nuccore/CP045159.1?report=fasta
+Info: Isolated from Citellophilus tesquorum fleas in Central-Caucasian high-mountain, Russia 2000
+Sources that provide strain information: (https://journals.asm.org/doi/10.1128/mra.01115-21, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2891959310)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP045159.1?report=fasta
 
 Yersinia pestis Pestoides F plasmid pMT, complete sequence
 GenBank: CP009714.1
-Info: Isolated from host in former Soviet Union (https://link.springer.com/chapter/10.1007/978-0-387-72124-8_2, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2630968993)
-https://www.ncbi.nlm.nih.gov/nuccore/CP009714.1?report=fasta
+Info: Isolated from host in former Soviet Union
+Sources that provide strain information: (https://link.springer.com/chapter/10.1007/978-0-387-72124-8_2, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2630968993)
+Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP009714.1?report=fasta
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 ## Goal:
@@ -129,11 +142,13 @@ long, which matches the average sequence of the pMT1 genome. Chose only complete
 
 **Completed - using ClustalW**
 
-- Description: ClustalW is a software used for multiple sequence alignment of nucleotides. It is the most user friendly and performs quality alignments using progressive alignment methods.
+- Description: a software that uses progressive alignment methods based on pairwise alignment
 
-- Assumptions: all aligned sequences are evolutionarily related, rate of change in sequences is constant
+- Strengths: being commonly used to align sequences, handling large datasets, and being macOS friendly
 
-- Limitations: struggles to align distantly related sequences, takes very long to align big number of sequences
+- Weaknesses and Limitations: not performing well on sequences with high levels of divergence, producing biased results due to its progressive alignment strategy, takes very long to align a large dataset
+
+- Assumptions: assumes all sequences are evolutionarily related and the rate of change in the sequences is constant
 
 _Code:_
 
@@ -147,11 +162,13 @@ clustalw2 -ALIGN -INFILE=pestis-pMT1-all.fasta -OUTFILE=pestis-pMT1-all-clustalw
 
 **Completed - using Mafft**
 
-- Description: Mafft is a multiple sequence alignment tool that progressively aligns large sequences quickly and is macos friendly.
+- Description: a multiple sequence alignment tool that progressively aligns sequences quickly and accurately based on the Fast Fourier transform strategy; uses several different methods for aligning sequences, such as progressive methods, iterative refinement, and consistency-based approaches
 
-- Assumptions: input sequences are homologous (from a common ancestor) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3603318/), all lineages have the same evolutionary rate (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4920119/)
+- Strengths: handling large datasets, aligning quickly, and being macOS friendly
 
-- Limitations: has no function to exclude divergent input sequences (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4920119/)
+- Weaknesses and Limitations: not performing well when sequences have a high degree of divergence
+
+- Assumptions: the input sequences are homologous and all lineages have the same evolutionary rate
 
 _Code:_
 
@@ -166,11 +183,13 @@ mafft pestis-pMT1-all.fasta > pestis-pMT1-all-mafft.fasta
 
 **Completed - using Trimal**
 
-- Description: 
+- Description: a software that trims and filters multiple sequence alignments, removing poorly aligned positions using gap filtering, gap thresholding, and column removal
 
-- Assumptions:
+- Strengths: users can select how sequences are trimmed to remove poorly aligned regions of multiple sequence alignments, which can improve the accuracy of phylogenetic inference
 
-- Limitations:
+- Weaknesses and Limitations: potential loss of important data if poorly aligned positions are wrongly removed, especially in cases that a user is knowledgeable in setting the filtering parameter
+
+- Assumptions: assumes poorly aligned positions don’t provide much information thus should be removed from the final alignment and that the user has already aligned the sequences before input
 
 _Code:_
 
@@ -195,15 +214,18 @@ trimal -in pestis-pMT1-all-clustalw.fasta -out pestis-pMT1-all-clustalw-trimal.f
 
 ## Step 5: Distance-based tree and parsimony-based tree using the ape and phangorn R packages
 
-**Completed- Parsimony Tree per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting CP000309.1 as root**
+- Description: Ape and Phangorn packages in the R software allow phylogenetic tree visualization under the use of various phylogenetic methods 
 
-- Description: The ape and phangorn R packages will create distance-based trees and parsimony-based trees. Parsimony-based methods will create a tree that minimizes the amount of evolutionary change required to explain the data.
+- Strengths: can use various algorithms for phylogenetic reconstruction, such as maximum likelihood, parsimony, and Bayesian inference; can handle both nucleic acid and protein sequences; handle large data sets and using parallel computing, macOS friendly
 
-- Assumptions:  Parsimony methods assume independence among characters. 
+- Weaknesses and Limitations: the accuracy of the tree can be affected by the quality of the sequence alignment, choice of evolutionary model, and choice of method of phylogenetic reconstruction
 
-- Limitations: Parsimony-based may not produce an accurate tree due to assuming the simplest explanation of evolutionary change is correct; trees may be inconsistent.
+- Assumptions: assume your input is correct; the creation of parsimony-based and distance-based trees assume that sequences evolved independently and that mutations occurred at a constant rate over time
 
 - Note of how to root trees: root all trees using root(tre.ini,outgroup=“name of clade plasmids”) or root(tre.ini, node=number)
+
+
+**Completed- Parsimony Tree per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting CP000309.1 as root**
 
 _Code:_
 
@@ -277,14 +299,6 @@ title("pMT clustalw-aligned parsimony-based tree")
 
 **Completed- Distance Tree per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting CP000309.1 as root**
 
-- Description: The ape and phangorn R packages will create distance-based trees and parsimony-based trees. Distance-based methods will create a tree by calculating pairwise distances between molecular sequences. 
-
-- Assumptions:  Distance methods assume rate of molecular evolution is constant over time and across lineages.
-
-- Limitations: Distance-based relies on an existing model and which model is chosen; there is no flexibility.
-
-- Note of how to root trees: root all trees using root(tre.ini,outgroup=“name of clade plasmids”) or root(tre.ini, node=number)
-
 _Code:_
 
 ```
@@ -354,11 +368,13 @@ title("pMT clustalw-aligned distance-based tree")
 
 **Completed- RAxML-NG Maximum Likelihood Tree per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting CP000309.1 as root**
 
-- Description: RAxML-NG is a maximum likelihood tool that infers phylogenetic trees using any of the following input sequence options: nucleotides, amino acids, binary/multi-state morphological data, RNA secondary structure.
+- Description: a maximum likelihood software that combines rapid bootstrapping and search algorithms to explore the tree space to find the best tree topology
 
-- Assumptions: Mutation process is the same at every branch of the tree. All sites evolve independently of each other.  All sites evolve the same.
+- Strengths: it’s fast and consistent, including with large datasets; can support a wide range of substitution models and can handle multiple data inputs
 
-- Limitations: Has higher variance of trees
+- Weaknesses and Limitations: it may not always find the optimal tree topology, no information on convergence
+
+- Assumptions: assumes the input sequences are homologous and evolved under a nucleotide substitution model with a constant rate of evolution, assumes the model choices are correct 
 
 _Code:_
 
@@ -444,11 +460,13 @@ title("pMT clustalw-aligned raxml maximum likelihood-based tree")
 
 **Completed- IQ-Tree 2 Maximum Likelihood Tree per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting CP000309.1 as root**
 
-- Description: IQ-Tree 2 is a program that creates maximum likelihood phylogenies. The three main steps include using a  fast model selection via ModelFinder, an effective tree search algorithm, and an ultrafast bootstrap approximation.
+- Description: a software that uses fast maximum likelihood calculation algorithms and efficient search strategies to find the best tree topology
 
-- Assumptions: samples local optima so top optima is the ideal tree, 
+- Strengths: fast and efficient, including with large datasets, shown to have the best tree inference accuracy, supports a wide range of substitution models and can handle different types of input data
 
-- Limitations: longer running time, 100 maximum perturbations, no guarantee that output phylogeny represents global optimum
+- Weaknesses and Limitations: it may not always find the optimal tree topology, only information on convergence is amount of time it took
+
+- Assumptions: assumes the model choices are correct, the input sequences are homologous and evolved under a nucleotide substitution model with a constant rate of evolution
 
 _Code:_
 
@@ -523,11 +541,13 @@ title("pMT clustalw-aligned iqtree maximum likelihood-based tree")
 
 **Completed- Mr.Bayes per each Clustalw/Trimal and Mafft/Trimal Alignment
 
-- Description:  
+- Description: a statistical tool to infer the parameters of a probability distribution. It involves creating a prior parameter distribution based on existing knowledge, updating the prior distribution with observed data using Bayes’ theorem, and sampling the parameter’s posterior distribution using the Markov Chain Monte Carlo technique
 
-- Assumptions: 
+- Strengths: is macos friendly and it’s strength relies on that it allows the incorporation of prior knowledge into the analysis to make predictions
 
-- Limitations: 
+- Weaknesses and Limitations: can be sensitive to the specification of the prior distribution, resulting in biased outcomes; challenging to interpret results
+
+- Assumptions: assumes the data is independent and identically distributed, assumes the data is in correct Nexus format
 
 _Code:_
 
@@ -613,11 +633,15 @@ title("pMT clustalw-aligned mrbayes bayesian-based tree")
 
 **Completed- Astral per each Clustalw/Trimal/IQ-Tree and Mafft/Trimal/IQ-Tree Alignment with selecting Antiqua as root**
 
-- Description:  
+- Note: in future studies, multiple loci of species trees are combined not just one species tree input to make one gene tree output
 
-- Assumptions: 
+- Description: a software that uses the coalescent method to reconstruct evolutionary history, involves using posterior probability to determine the probability of a species tree using the gene tree
 
-- Limitations: 
+- Strengths: had the most simple and straightforward instructions for a beginner to run it on mac
+
+- Weaknesses and Limitations: it’s sensitive to missing data and general gene tree estimation error, instructions weren't straighforward enough to realize that the input involves information to multiple loci
+
+- Assumptions: assumes that the gene tree is correct and the data in input in Newick format
 
 _Code:_
 
@@ -679,28 +703,17 @@ title("pMT clustalw-aligned iqtree-based astral coalescent tree")
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Step 9: Co-estimation Method on each ClustalW and Mafft-Aligned IQ-Tree
 
 **Completed- Beast per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting Antiqua as root**
 
-- Description:  
+- Description: allows coestimations to be created using prior information from Bayesian framework, uses Markov chain Monte chain sampling to create trees
 
-- Assumptions: 
+- Strengths: easy to install and run on mac
 
-- Limitations:
+- Weaknesses and Limitations: several programs to download, long instructions, needing multiple runs to ensure convergence, difficult to interpret
+
+- Assumptions: assumes sequences are correct and aligned properly, assumes each branch evolves at the same evolutionary rate
 
 _Code:_
 
@@ -747,3 +760,7 @@ plot(tre2, cex = 0.6)
 title("pMT clustalw-aligned beast co-estimation-based tree")
 
 ```
+
+## Step 10: Annotate all phylogenetic trees
+- For each tip, not strain ID, strain name, and origin of samples. Highlight the strain according to the historically identified waves of plague: the first wave involves the biovar Antiqua, which is highlighted as orange on the tree; the second wave involves the biovar Medievalis, which is highlighted as red on the tree; and the third wave involves the biovar Orientalis, which is highlighted as gray on the tree.
+
