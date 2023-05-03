@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 ## Background:
 
-- The Yersinia pestis bacterium causes the plague. Its strains can be categorized into 3 biovars (strains that are similar genetically but differ physiologically) that correlates to 3 distinct waves of the plague. The oldest biovar is Antiqua, causing the first wave of plague in Africa. The second wave of plague was caused by the biovar Medievalis in Asia and Europe. The biovar Orientalis defines the third wave of plague that was transmitted to the Americas and to Australia. 
+- The Yersinia pestis bacterium causes the plague. Its strains can be categorized into 3 biovars (strains that are similar genetically but differ physiologically) that correlate to 3 distinct waves of the plague. The oldest biovar is Antiqua, causing the first wave of plague in Africa. The second wave of plague was caused by the biovar Medievalis in Asia and Europe. The biovar Orientalis defines the third wave of plague that was transmitted to the Americas and to Australia. 
 
 - An important genetic element that has contributed to the pathogenicity of this Yersinia pestis is the pMT1 plasmid. This plasmid has been thought to aid in deep tissue invasion (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC108724/).  However, the pMT1 plasmid's evolutionary history has not been explored, making the goal to create a phylogenetic tree of the pMT1 plasmid so that we can learn how pMT1 evolved to cause plague worldwide. 
 
@@ -21,7 +21,7 @@ contained all collected data, softwares, and input and output files; (3) "README
 
 **Completed - Software downloading training**
 - First, install the software from the official website. Move the software to the folder containing your data. Double click on the software file to untar. Make sure a path is created to the software using the following code on terminal:
-_Code:_
+- _Code:_
 ```
 nano ~/.rajvipatel
 
@@ -48,158 +48,158 @@ source ~/.rajvipatel
 
 **Yersinia pestis Antiqua plasmid pMT, complete sequence**
 
-GenBank: CP000309.1
+- GenBank: CP000309.1
 
-Info: Isolated from a human infection in Africa (Republic of Congo in 1965)
+- Info: Isolated from a human infection in Africa (Republic of Congo in 1965)
 
-Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000350)
+- Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000350)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000309.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000309.1?report=fasta
 
 
 
 **Yersinia pestis Nepal516 plasmid pMT, complete sequence**
 
-GenBank: CP000306.1
+- GenBank: CP000306.1
 
-Info: Isolated from a human infection in Nepal (possibly from a 1967 outbreak of pneumonic plague)
+- Info: Isolated from a human infection in Nepal (possibly from a 1967 outbreak of pneumonic plague)
 
-Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCA_000013805.1, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=645058759)
+- Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCA_000013805.1, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=645058759)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000306.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP000306.1?report=fasta
 
 
 
 **Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence**
 
-GenBank: AE017045.1
+- GenBank: AE017045.1
 
-Info: Isolated from Microtus brandti in Inner Mongolia, China
+- Info: Isolated from Microtus brandti in Inner Mongolia, China
 
-Sources that provide strain information: (https://pubmed.ncbi.nlm.nih.gov/15368893/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000354) 
+- Sources that provide strain information: (https://pubmed.ncbi.nlm.nih.gov/15368893/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000354) 
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/AE017045.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/AE017045.1?report=fasta
 
 
 
 **Yersinia pestis biovar Medievalis str. Harbin 35 plasmid pMT, complete sequence**
 
-NCBI Reference Sequence: NC_017266.1
+- NCBI Reference Sequence: NC_017266.1
 
-Info: Isolated from a human in China
+- Info: Isolated from a human in China
 
-Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA30505, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000186725.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=650377987)
+- Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA30505, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000186725.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=650377987)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017266.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017266.1?report=fasta
 
 
 
 **Yersinia pestis strain Cadman plasmid pMT1, complete sequence**
 
-NCBI Reference Sequence: NZ_CP016275.1
+- NCBI Reference Sequence: NZ_CP016275.1
 
-Info: Isolated in US 1965 from a boy's CSF
+- Info: Isolated in US 1965 from a boy's CSF
 
-Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084870/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2718217770)
+- Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5084870/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2718217770)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP016275.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP016275.1?report=fasta
 
 
 
 **Yersinia pestis strain S19960127 plasmid pMT1, complete sequence**
 
-NCBI Reference Sequence: NZ_CP045637.1
+- NCBI Reference Sequence: NZ_CP045637.1
 
-Info: Isolated from a pneumonic patient’s organs at necropsy during a plague outbreak that occurred in 1996 in Qayü village, Lhünze County, Shannan Prefecture in Tibet, China
+- Info: Isolated from a pneumonic patient’s organs at necropsy during a plague outbreak that occurred in 1996 in Qayü village, Lhünze County, Shannan Prefecture in Tibet, China
 
-Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8096067/)
+- Sources that provide strain information: (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8096067/)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP045637.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP045637.1?report=fasta
 
 
 
 **Yersinia pestis CA88-4125 plasmid pMT1, complete sequence**
 
-NCBI Reference Sequence: NC_009596.1
+- NCBI Reference Sequence: NC_009596.1
 
-Info: Isolated from human 1988 California
+- Info: Isolated from human 1988 California
 
-Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000181455.2/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=640963031)
+- Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000181455.2/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=640963031)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_009596.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_009596.1?report=fasta
 
 
 
 **Yersinia pestis CO92 plasmid pMT1, complete sequence**
 
-NCBI Reference Sequence: NC_003134.1
+- NCBI Reference Sequence: NC_003134.1
 
-Info: Isolated from a US human who got it from a cat at or before 2001
+- Info: Isolated from a US human who got it from a cat at or before 2001
 
-Sources that provide strain information: (https://core.ac.uk/reader/13110408?utm_source=linkout, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCF_000009065.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000351)
+- Sources that provide strain information: (https://core.ac.uk/reader/13110408?utm_source=linkout, genbank=refseq: https://www.ncbi.nlm.nih.gov/assembly/GCF_000009065.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=637000351)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_003134.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_003134.1?report=fasta
 
 
 
 
 **Yersinia pestis D106004 plasmid pMT1, complete sequence**
 
-NCBI Reference Sequence: NC_017155.1
+- NCBI Reference Sequence: NC_017155.1
 
-Info: Isolated from Apodemus chevrieri in Yulong county in 2006
+- Info: Isolated from Apodemus chevrieri in Yulong county in 2006
 
-Sources that provide strain information: (https://www.ajtmh.org/view/journals/tpmd/81/4/article-p714.xml, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022805.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646862350)
+- Sources that provide strain information: (https://www.ajtmh.org/view/journals/tpmd/81/4/article-p714.xml, refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022805.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646862350)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017155.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_017155.1?report=fasta
 
 
 
 **Yersinia pestis Z176003 plasmid pMT1, complete sequence**
 
-NCBI Reference Sequence: NC_014022.1
+- NCBI Reference Sequence: NC_014022.1
 
-Info: Isolated from dead marmot in Tibet Autonomous Region, China
+- Info: Isolated from dead marmot in Tibet Autonomous Region, China
 
-Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022845.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646564590)
+- Sources that provide strain information: (refseq=genbank: https://www.ncbi.nlm.nih.gov/assembly/GCF_000022845.1/, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=646564590)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_014022.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/NC_014022.1?report=fasta
 
 
 
 **Yersinia pestis Pestoides G plasmid pMT sequence**
 
-GenBank: CP010248.1
+- GenBank: CP010248.1
 
-Info: Isolated from Microtus montanus in Republic of Georgia
+- Info: Isolated from Microtus montanus in Republic of Georgia
 
-Sources that provide strain information: (https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2648501335)
+- Sources that provide strain information: (https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2648501335)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP010248.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP010248.1?report=fasta
 
 
 
 **Yersinia pestis subsp. pestis bv. Medievalis strain SCPM-O-B-6530 plasmid pMT, complete sequence**
 
-GenBank: CP045159.1
+- GenBank: CP045159.1
 
-Info: Isolated from Citellophilus tesquorum fleas in Central-Caucasian high-mountain, Russia 2000
+- Info: Isolated from Citellophilus tesquorum fleas in Central-Caucasian high-mountain, Russia 2000
 
-Sources that provide strain information: (https://journals.asm.org/doi/10.1128/mra.01115-21, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2891959310)
+- Sources that provide strain information: (https://journals.asm.org/doi/10.1128/mra.01115-21, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2891959310)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP045159.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP045159.1?report=fasta
 
 
 
 **Yersinia pestis Pestoides F plasmid pMT, complete sequence**
 
-GenBank: CP009714.1
+- GenBank: CP009714.1
 
-Info: Isolated from host in former Soviet Union
+- Info: Isolated from host in former Soviet Union
 
-Sources that provide strain information: (https://link.springer.com/chapter/10.1007/978-0-387-72124-8_2, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2630968993)
+- Sources that provide strain information: (https://link.springer.com/chapter/10.1007/978-0-387-72124-8_2, https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2630968993)
 
-Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP009714.1?report=fasta
+- Fasta source: https://www.ncbi.nlm.nih.gov/nuccore/CP009714.1?report=fasta
 
 
 
@@ -611,7 +611,7 @@ title("pMT clustalw-aligned iqtree maximum likelihood-based tree")
 
 ## Step 7: Bayesian Method Per each Parsimony and Distance Tree
 
-**Completed- Mr.Bayes per each Clustalw/Trimal and Mafft/Trimal Alignment
+**Completed- Mr.Bayes per each Clustalw/Trimal and Mafft/Trimal Alignment**
 
 - Description: a statistical tool to infer the parameters of a probability distribution. It involves creating a prior parameter distribution based on existing knowledge, updating the prior distribution with observed data using Bayes’ theorem, and sampling the parameter’s posterior distribution using the Markov Chain Monte Carlo technique
 
@@ -800,6 +800,6 @@ _Code:_
 
 ```
 
-## Step 10: Annotate all phylogenetic trees
+## Step 10: Annotation of all phylogenetic trees
 - For each tip, noted strain ID, strain name, and origin of samples. Highlighted the strain according to the historically identified waves of plague: the first wave involves the biovar Antiqua, which was highlighted as orange on the tree; the second wave involves the biovar Medievalis, which was highlighted as red on the tree; and the third wave involves the biovar Orientalis, which was highlighted as gray on the tree.
 
