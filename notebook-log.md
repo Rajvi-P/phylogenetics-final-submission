@@ -1,11 +1,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 ## Background:
 
-Yersinia pestis is infamous for causing plague, such as the Bubonic plague and the Justinian plague, killing millions.
+- The Yersinia pestis bacterium causes the plague. Its strains can be categorized into 3 biovars (strains that are similar genetically but differ physiologically) that correlates to 3 distinct waves of the plague. The oldest biovar is Antiqua, causing the first wave of plague in Africa. The second wave of plague was caused by the biovar Medievalis in Asia and Europe. The biovar Orientalis defines the third wave of plague that was transmitted to the Americas and to Australia. 
 
-Antiqua strain is thought to be the ancestral branch of the plague pathogen (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482938/).
+- An important genetic element that has contributed to the pathogenicity of this Yersinia pestis is the pMT1 plasmid. This plasmid has been thought to aid in deep tissue invasion (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC108724/).  However, the pMT1 plasmid's evolutionary history has not been explored, making the goal to create a phylogenetic tree of the pMT1 plasmid so that we can learn how pMT1 evolved to cause plague worldwide. 
 
-Specifically, the pMT1 plasmid found in Yersinia Pestis is a virulence factor that promotes tissue invasion (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC108724/). 
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -791,48 +791,15 @@ _Code:_
 
 ```
 
-# Downloaded Beast version 2.7.4, from https://beast.community/installing, into the "data" folder and followed the tutorials from the following website: https://beast.community/second_tutorial. When creating the .xml file from .nex mrbayes file using software Beauti, the following parameters were chosen: Jc69 as the site substitution model, strict clock with mean clock rate of 1.0, Yule model of speciation, checked the "Selected sample from prior" box. Ran beast with 10,000,000 iterations 5 times for both the clustalw-aligned and mafft-aligned data. Combined all output data for .log files into one using LogCombiner. Combined all output data for .trees files into one using LogCombiner. The output files are found in "BEAST 2.7.4" file named as follows: "pestis-pMT1-all-clustalw-trimal-beast-sum.log", "pestis-pMT1-all-mafft-trimal-beast-sum.log", "pestis-pMT1-all-clustalw-trimal-beast-sum.trees", "pestis-pMT1-all-mafft-trimal-beast-sum.trees". Tracer was downloaded through http://beast.community/tracer and both "pestis-pMT1-all-clustalw-trimal-beast-sum.log" and "pestis-pMT1-all-mafft-trimal-beast-sum.log" were visualized. TreeAnnotator was used with the following parameters: burn in percentage of 10, target tree type of maximum clade credibility tree, and node height of median height. The input data were "pestis-pMT1-all-clustalw-trimal-beast-sum.trees" and "pestis-pMT1-all-mafft-trimal-beast-sum.trees" to get the output, containing the tree, on "pestis-pMT1-all-clustalw-trimal-beast-sum-tree.mcc.tre" and "pestis-pMT1-all-mafft-trimal-beast-sum-tree.mcc.tre". The previously made MCC trees were visualized on R.
+# Downloaded Beast version 2.7.4, from https://beast.community/installing, into the "data" folder and followed the first and second tutorial from the following website: https://beast.community/second_tutorial. When creating the .xml file from .nex mrbayes file using software Beauti version 2.7.4, the following parameters were chosen: Jc69 as the site substitution model, strict clock with mean clock rate of 1.0, Yule model of speciation, checked the "Selected sample from prior" box. Ran beast with 10,000,000 iterations 5 times for both the clustalw-aligned and mafft-aligned data.
 
-# Copied the Newick formatted data from the "pestis-pMT1-all-mafft-trimal-beast-sum-trees.mcc.tre" file to use in the following commands on software R. Opened software R and inputted the following commands to obtain a tree, which was saved to the desktop under "pMT-mafft-trimal-beast.pdf"
+# Was unable to visualize the MCC tree containing multiple replicates. Nevertheless, I still attempted to visualize the tree by performing multiple attempts of the following steps found from https://beast.community/second_tutorial. Combined all output data for .log files into one using LogCombiner version 2.7.4. Combined all output data for .trees files into one using LogCombiner. The output files are found in "BEAST 2.7.4" file named as follows: "pestis-pMT1-all-clustalw-trimal-beast-sum.log", "pestis-pMT1-all-mafft-trimal-beast-sum.log", "pestis-pMT1-all-clustalw-trimal-beast-sum.trees", "pestis-pMT1-all-mafft-trimal-beast-sum.trees". Tracer was downloaded through http://beast.community/tracer to summarize parameter estimates for "pestis-pMT1-all-clustalw-trimal-beast-sum.log" and "pestis-pMT1-all-mafft-trimal-beast-sum.log". For the next step in building the MCC Tree, TreeAnnotator was used with the following parameters: burn in percentage of 10, target tree type of maximum clade credibility tree, and node height of median height. The input data were "pestis-pMT1-all-clustalw-trimal-beast-sum.trees" and "pestis-pMT1-all-mafft-trimal-beast-sum.trees" to get the output, containing the tree, on "pestis-pMT1-all-clustalw-trimal-beast-sum-tree.mcc.tre” and "pestis-pMT1-all-mafft-trimal-beast-sum-tree.mcc.tre”. To visualize the MCC tree, the .dmg FigTree version 1.4.4 file was downloaded from https://github.com/rambaut/figtree/releases and inputted the .mcc.tre files. Was unable to see anything on the screen.
 
-library(ape)
+# Due to the previously discussed issue, instead of replicate combinations being visualized, replicate 5 from mafft and clustalw run data was turned into an MCC tree. Both trees were rooted using strain CP000309.1 (Antiqua). The tree tips were annotated and saved to Desktop under "pMT-mafft-trimal-beast.pdf" and "pMT-clustalw-trimal-beast.pdf".
 
-library(adegenet)
-
-library(phangorn)
-
-mytree <- read.tree(text='')
-
-plot(mytree)
-
-nodelabels()
-
-tre2 = root(mytree,outgroup="1")
-
-plot(tre2, cex = 0.6)
-title("pMT mafft-aligned beast co-estimation-based tree")
-
-# Copied the Newick formatted data from the "pestis-pMT1-all-clustalw-trimal-beast-sum-trees.mcc.tre" file to use in the following commands on software R. Opened software R and inputted the following commands to obtain a tree, which was saved to the desktop under "pMT-clustalw-trimal-beast.pdf"
-
-library(ape)
-
-library(adegenet)
-
-library(phangorn)
-
-mytree <- read.tree(text='')
-
-plot(mytree)
-
-nodelabels()
-
-tre2 = root(mytree,outgroup="1")
-
-plot(tre2, cex = 0.6)
-title("pMT clustalw-aligned beast co-estimation-based tree")
 
 ```
 
 ## Step 10: Annotate all phylogenetic trees
-- For each tip, not strain ID, strain name, and origin of samples. Highlight the strain according to the historically identified waves of plague: the first wave involves the biovar Antiqua, which is highlighted as orange on the tree; the second wave involves the biovar Medievalis, which is highlighted as red on the tree; and the third wave involves the biovar Orientalis, which is highlighted as gray on the tree.
+- For each tip, noted strain ID, strain name, and origin of samples. Highlighted the strain according to the historically identified waves of plague: the first wave involves the biovar Antiqua, which was highlighted as orange on the tree; the second wave involves the biovar Medievalis, which was highlighted as red on the tree; and the third wave involves the biovar Orientalis, which was highlighted as gray on the tree.
 
